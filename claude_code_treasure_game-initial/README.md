@@ -31,6 +31,8 @@ type '#' first
 ### Challenge: change the hover mouse point icon
 use the src/assets/key.png icon when the mouse hovers over the closed treasure box
 
+- **Prompt**: Please use `src/assets/key.png` to switch the cursor from arrow to key icon while hovering over the closed (unopened) chest. Once a chest is opened, the cursor reverts to the default pointer. 
+
 | Before opening box & not hovering over box | Before opening box & hovering over box | After opening box & hovering over box |
   |--------|---------|---------| 
   | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/863_box_unopened_arrow_cursor.jpg) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/864_box_unopened_key_cursor.jpg) | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/865_box_opened.jpg) | 
