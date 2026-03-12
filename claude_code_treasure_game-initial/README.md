@@ -30,6 +30,13 @@ type '#' first
 ### Challenge: change the hover mouse point icon
 use the src/assets/key.png icon when the mouse hovers over the closed treasure box
 
+![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
+
+| Before opening box & not hovering over box | Before opening box & hovering over box | After opening box & hovering over box |
+  |--------|---------|---------| 
+  | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/863_box_unopened_arrow_cursor.jpg) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/864_box_unopened_key_cursor.jpg) | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/865_box_opened.jpg) | 
+
+
 ### manage context 
 /context 
 54k/200k tokens (27%)
