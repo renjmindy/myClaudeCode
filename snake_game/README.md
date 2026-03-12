@@ -42,4 +42,8 @@ http://localhost:8080
 
 ## Result
 
-- Super Food ⭐ the snake becomes twice longer after consuming `super food`. 
+- **Super Food** (⭐): After consuming the `super food`, the snake grows to twice its original length.
+  | Before eating **Super Food** | After eating **Super Food** |
+  |--------|---------|
+  | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20174940%20before%20eating.png) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20175007%20after%20eating.png) |
+ 
