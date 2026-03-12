@@ -1,6 +1,6 @@
 # Snake Game
 
-![img0](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20221723%20Cover.png)
+![img0](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20221723%20Cover.png){width=300px}
 
 A classic Snake game running as a local web server.
 
@@ -56,6 +56,6 @@ http://localhost:8080
   |--------|---------|
   | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20175020%20before%20walking%20through%20wall.png) | ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20175032%20after%20walking%20through%20wall.png) |
 
-- Video: [![Demo Video](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20224333%20Demo.png)](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Snake%20Game%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202026-03-11%2018-06-06.mp4)
+- Video: [![Demo Video](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Screenshot%202026-03-11%20224333%20Demo.png){width=300px}](https://github.com/renjmindy/myClaudeCode/blob/main/snake_game/Snake%20Game%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202026-03-11%2018-06-06.mp4)
 
  
