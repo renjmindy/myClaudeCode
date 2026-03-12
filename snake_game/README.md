@@ -39,3 +39,7 @@ http://localhost:8080
 - **+10 × level** points per food eaten
 - Level increases every 100 points
 - Speed increases with each level (capped at max speed)
+
+## Result
+
+- Super Food ⭐ the snake becomes twice longer after consuming `super food`. 
