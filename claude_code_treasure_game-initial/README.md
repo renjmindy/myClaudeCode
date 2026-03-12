@@ -26,11 +26,10 @@ type '#' first
 ### use screenshot to develop intuitively 
 > screenshot and mark the area you want the change to be. 
 > [!image] show the results to be either: win, tie, loss in the circled place according to the final score 
+![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
 
 ### Challenge: change the hover mouse point icon
 use the src/assets/key.png icon when the mouse hovers over the closed treasure box
-
-![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
 
 | Before opening box & not hovering over box | Before opening box & hovering over box | After opening box & hovering over box |
   |--------|---------|---------| 
