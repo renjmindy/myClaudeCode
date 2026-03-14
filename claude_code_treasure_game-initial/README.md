@@ -80,6 +80,10 @@ revert back to previous git commit
 
 > Ctrl + T: See the To-Do List 
 
+| Play Game After Sign in | Game Score Table for each Sign in User |
+  |--------|---------|
+  | ![img6](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143423%20log%20in%20play%20games.png) | ![img7](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143746%20game%20history.png) | 
+
 ### custom command - Vercel deployment
 - create folder: .claude/commands
 - create file: deploy_vercel.md
