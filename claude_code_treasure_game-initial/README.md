@@ -89,7 +89,7 @@ revert back to previous git commit
 - create file: deploy_vercel.md
 - after creation, re-open a new claude code session
 
-![project public link](https://claudecodetreasuregame-initial-five.vercel.app/)
+[project public link](https://claudecodetreasuregame-initial-five.vercel.app/)
 
 ### custom command - Github Page deployment
 - create folder: .claude/commands
