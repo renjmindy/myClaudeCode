@@ -100,3 +100,10 @@ revert back to previous git commit
 - create folder: .claude/commands
 - create file: deploy_github_page.md 
 - after creation, re-open a new claude code session
+
+- Your github page goes online!!! 🖱️[https://YOURE_GITHUB_ACCOUNT.github.io/claude_code_treasure_game/](https://renjmindy.github.io/myClaudeCode/)
+- Your github source codes!!! 🖱️[https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/renjmindy/myClaudeCode/tree/main/claude_code_treasure_game)
+
+| :lock_with_ink_pen: Github Authentication | :bulb: Alive Github Page |
+  |--------|---------|
+  | ![img6](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-14%20001540%20authentication.png) | ![img7](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-14%20001627%20treasure%20hunt%20game%20git%20page.png) | 
