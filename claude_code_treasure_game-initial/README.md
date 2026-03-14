@@ -69,6 +69,10 @@ shift + tab
 
 > Ctrl + T: See the To-Do List 
 
+| Simple Sign up / Sign in / guest mode Window | After Sign in |
+  |--------|---------|
+  | ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143529%20sign%20up%20sign%20in.png) | ![img5](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143407%20log%20in.png) | 
+
 ### Ultrathink 
 revert back to previous git commit 
 
