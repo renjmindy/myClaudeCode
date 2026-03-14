@@ -91,6 +91,8 @@ revert back to previous git commit
 
 :dart: Successfully deploy the treasure hunt game on Vercel :computer: [project public link](https://claudecodetreasuregame-initial-five.vercel.app/)
 
+:dart: The new winning price (now, $150) for the treasure hunt game on Vercel :computer: [project public link](https://claudecodetreasuregame-initial-ee7fvq8p1.vercel.app/)
+
 ### custom command - Github Page deployment
 - create folder: .claude/commands
 - create file: deploy_github_page.md 
