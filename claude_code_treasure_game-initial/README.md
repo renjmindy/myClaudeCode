@@ -26,7 +26,7 @@ type '#' first
 ### use screenshot to develop intuitively 
 > screenshot and mark the area you want the change to be. 
 > [!image] show the results to be either: win, tie, loss in the circled place according to the final score 
-![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
+![:closed_lock_with_key:](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
 
 ### Challenge: change the hover mouse point icon
 use the src/assets/key.png icon when the mouse hovers over the closed treasure box
@@ -35,7 +35,7 @@ use the src/assets/key.png icon when the mouse hovers over the closed treasure b
 
 | Before opening box & not hovering over box | Before opening box & hovering over box | After opening box & hovering over box |
   |--------|---------|---------| 
-  | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/863_box_unopened_arrow_cursor.jpg) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/864_box_unopened_key_cursor.jpg) | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/865_box_opened.jpg) | 
+  | ![:lock:](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/863_box_unopened_arrow_cursor.jpg) | ![:key:](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/864_box_unopened_key_cursor.jpg) | ![:unlock:](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/865_box_opened.jpg) | 
 
 
 ### manage context 
