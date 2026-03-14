@@ -63,7 +63,7 @@ esc + esc > select a conversation to go back
 ### Plan mode: 
 make a commit to store the current state
 
-shift + tab: In addition, allow to play the game as guest mode without storing any data."
+> shift + tab: In addition, allow to play the game as guest mode without storing any data."
 
 > Ctrl + T: See the To-Do List 
 
@@ -78,7 +78,7 @@ revert back to previous git commit
 
 > Ctrl + T: See the To-Do List 
 
-| Play Game After Sign in | Game Score Table for each Sign in User |
+| :octocat: Play Game After Sign in | :memo: Game Score Table for each Sign in User |
   |--------|---------|
   | ![img6](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143423%20log%20in%20play%20games.png) | ![img7](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143746%20game%20history.png) | 
 
