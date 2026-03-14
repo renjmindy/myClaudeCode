@@ -101,8 +101,8 @@ revert back to previous git commit
 - create file: deploy_github_page.md 
 - after creation, re-open a new claude code session
 
-- Your github page goes online!!! 🖱️[https://YOURE_GITHUB_ACCOUNT.github.io/claude_code_treasure_game/](https://renjmindy.github.io/myClaudeCode/)
-- Your github source codes!!! 🖱️[https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/renjmindy/myClaudeCode/tree/main/claude_code_treasure_game)
+- Your github page goes online!!! :point_right: please🖱️[https://YOURE_GITHUB_ACCOUNT.github.io/claude_code_treasure_game/](https://renjmindy.github.io/myClaudeCode/)
+- Your github source codes!!! :point_right: please🖱️[https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/renjmindy/myClaudeCode/tree/main/claude_code_treasure_game)
 
 | :lock_with_ink_pen: Github Authentication | :bulb: Alive Github Page |
   |--------|---------|
