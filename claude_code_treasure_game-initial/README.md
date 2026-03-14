@@ -63,16 +63,13 @@ esc + esc > select a conversation to go back
 ### Plan mode: 
 make a commit to store the current state
 
-shift + tab 
-> "What database options I have to implement sign up and sign in flow?"
-> "how about SQLite as local storage?"
-> "use SQLite to build a simple sign up and sign in flow and store the game score for each signed in user. In addition, allow to play the game as guest mode without storing any data."
+shift + tab: In addition, allow to play the game as guest mode without storing any data."
 
 > Ctrl + T: See the To-Do List 
 
-| Simple Sign up / Sign in / guest mode Window | After Sign in |
-  |--------|---------|
-  | ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143529%20sign%20up%20sign%20in.png) | ![img5](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143407%20log%20in.png) | 
+| :file_folder: Simple Sign up / Sign in / guest mode Window | :open_file_folder: After Sign in |
+|--------|---------|
+| ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143529%20sign%20up%20sign%20in.png) | ![img5](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143407%20log%20in.png) | 
 
 ### Ultrathink 
 revert back to previous git commit 
