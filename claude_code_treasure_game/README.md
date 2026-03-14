@@ -27,7 +27,7 @@ type '#' first
 > screenshot and mark the area you want the change to be. 
 > [!image] show the results to be either: win, tie, loss in the circled place according to the final score
 :closed_lock_with_key:
-![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
+![img0](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-12%20103723%20win_tie_loss_claude_code.png)
 
 ### Challenge: change the hover mouse point icon
 use the src/assets/key.png icon when the mouse hovers over the closed treasure box
@@ -36,7 +36,7 @@ use the src/assets/key.png icon when the mouse hovers over the closed treasure b
 
 | :lock: Before opening box & not hovering over box | :key: Before opening box & hovering over box | :unlock: After opening box & hovering over box |
   |--------|---------|---------| 
-  | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/863_box_unopened_arrow_cursor.jpg) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/864_box_unopened_key_cursor.jpg) | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/865_box_opened.jpg) | 
+  | ![img1](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/863_box_unopened_arrow_cursor.jpg) | ![img2](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/864_box_unopened_key_cursor.jpg) | ![img3](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/865_box_opened.jpg) | 
 
 
 ### manage context 
@@ -74,7 +74,7 @@ shift + tab
 
 | :file_folder: Simple Sign up / Sign in / guest mode Window | :open_file_folder: After Sign in |
 |--------|---------|
-| ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143529%20sign%20up%20sign%20in.png) | ![img5](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143407%20log%20in.png) | 
+| ![img4](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-13%20143529%20sign%20up%20sign%20in.png) | ![img5](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-13%20143407%20log%20in.png) | 
 
 ### Ultrathink 
 revert back to previous git commit 
@@ -85,7 +85,7 @@ revert back to previous git commit
 
 | :octocat: Play Game After Sign in | :memo: Game Score Table for each Sign in User |
   |--------|---------|
-  | ![img6](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143423%20log%20in%20play%20games.png) | ![img7](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game-initial/Screenshot%202026-03-13%20143746%20game%20history.png) | 
+  | ![img6](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-13%20143423%20log%20in%20play%20games.png) | ![img7](https://github.com/renjmindy/myClaudeCode/blob/main/claude_code_treasure_game/Screenshot%202026-03-13%20143746%20game%20history.png) | 
 
 ### custom command - Vercel deployment
 - create folder: .claude/commands
