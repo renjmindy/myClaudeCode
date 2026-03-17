@@ -1,0 +1,20 @@
+https://supabase.com/docs/guides/local-development/cli/getting-started
+
+http://127.0.0.1:54323/project/default
+
+https://github.com/microsoft/playwright-mcp
+
+https://github.com/upstash/context7
+
+https://context7.com/docs/resources/all-clients#claude-code
+
+https://context7.com/dashboard # API Key 
+
+https://github.com/uopsdod/claude_code_toy_marketplace/tree/initial
+
+https://mcp.sentry.dev
+
+https://mindy-jen.sentry.io/auth/login/mindy-jen/ # DNS
+
+// claude mcp add playwright npx @playwright/mcp@latest
+// claude mcp add --scope user --header "CONTEXT7_API_KEY: YOUR_API_KEY" --transport http context7 https://mcp.context7.com/mcp

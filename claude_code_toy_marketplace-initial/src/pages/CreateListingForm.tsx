@@ -1,3 +1,4 @@
+import * as Sentry from "@sentry/react";
 import NavigationBar from "@/components/NavigationBar";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -213,6 +214,24 @@ const CreateListingForm = () => {
       if (!user) {
         toast({ title: "Please sign in", description: "You must be logged in to publish.", variant: "destructive" });
         return;
+      }
+
+      const BANNED_WORDS = ["fuck", "murder", "kill", "shit", "bitch", "ass", "cunt", "dick", "rape", "porn"];
+      const textFields: Record<string, string> = { productName, description, location, color, leather, stamp };
+      for (const [field, value] of Object.entries(textFields)) {
+        const found = BANNED_WORDS.filter(word => value.toLowerCase().includes(word));
+        if (found.length > 0) {
+          Sentry.captureMessage(`Inappropriate content detected in listing`, {
+            level: "warning",
+            extra: { field, flaggedWords: found, userId: user.id, value },
+          });
+          toast({
+            title: "Inappropriate content detected",
+            description: `Please remove offensive language from the "${field}" field.`,
+            variant: "destructive",
+          });
+          return;
+        }
       }
 
       const priceNumber = Number(price);
